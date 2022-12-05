@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">StartgramEduApp02</string>
+    <string name="first_activity">Первая активити</string>
+    <string name="second_activity">Это вторая активити</string>
+    <string name="second_btn">Обратно</string>
+    <string name="first_btn">Открыть вторую активи</string>
+    <string name="event_01">Отправить событие 1</string>
+    <string name="event_02">Отправить событие 2</string>
+</resources>
